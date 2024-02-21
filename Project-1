@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Test</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>
+        <strong> Welcome Git! </strong>
+    </h1>
+    <button class="button">
+        Click Here...
+    </button>
+    <h2>
+        <strong>Hosting my Coding Page!</strong>
+    </h2>
+    <form id="signup-form">
+        <input type="email" id="email-input" placeholder="Enter your email" required>
+        <input type="username" id="username-input" placeholder="Enter your username" required>
+        <input type="submit" value="Sign up">
+        </form>
+        
+    <script src="script.js"></script>
+</body>
+</html>
